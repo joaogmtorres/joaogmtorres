@@ -4,7 +4,7 @@
 
 ## ✨ About me
 
-☕️ Turning caffeine-based liquids into sequences of computer instructions for a total of NaN years.
+☕️ Turning caffeine-based liquids into sequences of computer instructions for a total of `NaN` years.
 
 ☢️ Dangerously refactoring legacy codebases under the mantra of *[U Can't Touch This, 
 M.C. Hammer](https://www.youtube.com/watch?v=otCpCn0l4Wo)* <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZyMjdvNHk2Znd6dWxsMGc3b2Z2M2R3cHZreXdtdGdiaXE2Nm11aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="18px" />
