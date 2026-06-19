@@ -4,7 +4,7 @@
 
 ## ✨ About me
 
-Fullstack Engineer with a strong hands-on execution background, shaped by solid years of developing and automating critical systems within a military environment alongside private sector projects. Core experience focused on backend infrastructure using Python, Node.js, and PHP, specialized in HR operational workflow automation, payroll processing systems, and local network infrastructure management.
+Fullstack Engineer with a strong hands-on execution background, shaped by solid NaN years of developing and automating critical systems within a military environment alongside private sector projects. Core experience focused on backend infrastructure using Python, Node.js, and PHP, specialized in HR operational workflow automation, payroll processing systems, and local network infrastructure management.
 
 
 ---
